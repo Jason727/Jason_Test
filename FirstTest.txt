@@ -1,2 +1,4 @@
 This is my first time trying to learn git.
 And any other stuff related to linux.
+
+Trying to get something about Hash
